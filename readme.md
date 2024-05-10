@@ -3,9 +3,10 @@
 >Projeto criado durante a imersão da Alura
 
 ### Funcionamento Prático
-[Vídeo do YouTube](https://youtu.be/tmP_IyFb2WA)
 
-<iframe width="560" height="315" src="https://youtu.be/tmP_IyFb2WA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+> **Ver o funcionamento do projeto pelo vídeo abaixo**
+
+[Vídeo do YouTube](https://youtu.be/tmP_IyFb2WA)
 
 ### Uso
 
